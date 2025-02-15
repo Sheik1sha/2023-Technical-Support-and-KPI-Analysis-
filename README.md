@@ -10,7 +10,7 @@ This project analyzes customer support data to identify trends in ticket distrib
 
 ## **Data Overview**  
 
-- **Source**: Internal Technical Support Ticket System  
+- **Source**: Kaggle: Technical Support System Dataset
 - **Key Features**:  
   - **Ticket Distribution**: Country-wise breakdown, monthly trends  
   - **Support Channels**: Email, Chat, Phone  
